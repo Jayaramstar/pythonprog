@@ -120,7 +120,7 @@ elif(b>a and b>c):
   print("both are same)
 else:
   printf("c is greater")
- 
+ h
  
   
    #write a program to find the greatest of 3 numbers and return that 2 numbers are the same if 2 same numbers are given by the user,
